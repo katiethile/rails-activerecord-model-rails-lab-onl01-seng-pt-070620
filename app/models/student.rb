@@ -1,3 +1,3 @@
 class Student < ActiveRecord::Base 
-  @to_s = first_name: "Daenerys", last_name: "Targaryen" => "Daenerys Targaryen"
+  @to_s = first_name:, last_name: => 
 end 
